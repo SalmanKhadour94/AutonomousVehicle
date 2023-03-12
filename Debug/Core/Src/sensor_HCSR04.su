@@ -1,0 +1,4 @@
+../Core/Src/sensor_HCSR04.c:17:6:Look	16	static
+../Core/Src/sensor_HCSR04.c:39:6:TriggerHCSR04	8	static
+../Core/Src/sensor_HCSR04.c:54:6:ScanSurroundings	8	static
+../Core/Src/sensor_HCSR04.c:73:6:HAL_TIM_IC_CaptureCallback	16	static
